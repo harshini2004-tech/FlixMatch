@@ -5,6 +5,8 @@ Movie Matching: Enter a movie title, and get recommendations of similar movies b
 Fuzzy Matching: Handle typos or variations in movie titles for accurate recommendations.
 Cosine Similarity: Movie similarity is calculated using cosine similarity, a technique based on the similarity of movie tags or descriptions.
 
+DATASET:https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download
+
 
 
 EXAMPLE:
